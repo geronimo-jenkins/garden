@@ -4,7 +4,7 @@
 }
 h1 {
     position: relative;
-    width: 400px;
+    width: 300px;
     margin: 0px;
     padding: 0px;
     height: 50px;
@@ -12,7 +12,7 @@ h1 {
 
 h2 {
     position: relative;
-    width: 450px;
+    width: 412px;
     margin: 0px;
     padding: 0px;
     height: 50px;
@@ -22,7 +22,7 @@ h2 {
     margin: 0px;
     font-size: 24px;
     line-height: 1;
-    width: 1550px;
+    width: 1450px;
 }
 
 header {
@@ -84,8 +84,8 @@ header {
 	position: absolute;
 	top: 220px;
 	right: 21px;
-	left: 1350px;
-	width: 214px;
+	left: 1050px;
+	width: 445px;
 }
 .design-selection {
 	top: 0px;
