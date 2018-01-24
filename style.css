@@ -1,0 +1,118 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1 {
+    position: relative;
+    width: 400px;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+}
+
+h2 {
+    position: relative;
+    width: 450px;
+    margin: 0px;
+    padding: 0px;
+    height: 50px;
+}
+
+.page-wrapper {
+    margin: 0px;
+    font-size: 24px;
+    line-height: 1;
+    width: 1550px;
+}
+
+header {
+	margin: 50px;
+	padding: 0px;
+	height: 83px;
+	width: 322px;
+	float: right;
+}
+.preamble {
+	margin: 125px 0px 0px 0px;
+	top: 0px;
+	right: 0px;
+    bottom: 20px;
+    left: 0px;
+	width: 900px;
+}
+.supporting {
+	margin: 0px;
+	top: 0px;
+	right: 0px;
+    bottom: 20px;
+    left: 0px;
+	width: 900px;
+}
+.explanation {
+	margin: 0px;
+	top: 0px;
+	right: 0px;
+    bottom: 20px;
+    left: 0px;
+	width: 900px;
+}
+.participation {
+	margin: 0px;
+	top: 0px;
+	right: 0px;
+    bottom: 20px;
+    left: 0px;
+	width: 900px;
+}
+.benefits {
+	margin: 0px;
+	top: 0px;
+	right: 0px;
+    bottom: 20px;
+    left: 0px;
+	width: 900px;
+}
+.requirements {
+	margin: 0px;
+	top: 0px;
+	right: 0px;
+    bottom: 20px;
+    left: 0px;
+	width: 900px;
+}
+.sidebar {
+	position: absolute;
+	top: 220px;
+	right: 21px;
+	left: 1350px;
+	width: 214px;
+}
+.design-selection {
+	top: 0px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+	margin: 0px;
+}
+.design-archives {
+	margin: 10px 0px 0px;
+	top: 0px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+}
+.zen-resources {
+	margin: 10px 0px 0px;
+    top: 0px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+}
+footer {
+	margin: 0px 0px 0px 720px;
+	top: 3px;
+    right: 0px;
+	bottom: 3px;
+	left: 0px;
+	width: 301px;
+}
